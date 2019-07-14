@@ -1,0 +1,27 @@
+{
+  "name": "react-redux-next-boilerplate",
+  "version": "1.0.0",
+  "description": "This is starting point for server side React applications. It uses nextjs, styled-components and redux.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "start-with-port": "next start -p $PORT"
+  },
+  "author": "bartekloza@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4",
+    "styled-components": "^4.3.2"
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.8"
+  }
+}
