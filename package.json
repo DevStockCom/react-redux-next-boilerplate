@@ -19,7 +19,8 @@
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
     "redux": "^4.0.4",
-    "styled-components": "^4.3.2"
+    "styled-components": "^4.3.2",
+    "reactstrap": "^8.0.1"
   },
   "devDependencies": {
     "redux-devtools-extension": "^2.13.8"
